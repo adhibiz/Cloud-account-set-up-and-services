@@ -1,11 +1,8 @@
 # EX NO: Cloud-account-set-up-and-services
 
-Name : AFIFA A
-Reg no: 212223040008
-
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
-
+---
 # Procedure
 # Step 1: Go to the AWS Website
 • Visit https://aws.amazon.com
@@ -77,12 +74,11 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 # Services Overview:
 • Explore all the available services in AWS platform.
-
 # Output:
 
-![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
+![image](https://github.com/user-attachments/assets/6ca8a3d8-44c0-4da3-b4dd-275b01bc0199)
 
-![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
+![image](https://github.com/user-attachments/assets/79284a93-be0e-472b-b064-4d3222c6f17c)
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
